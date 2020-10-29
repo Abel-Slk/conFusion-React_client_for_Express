@@ -1,6 +1,6 @@
 # restaurant-app-react-client-for-express
 
-This is the frontend part of my React + MongoDB + Express restaurant web app. The backend is at …
+This is the frontend part of my React + MongoDB + Express restaurant web app. The backend is at https://github.com/Abel-Slk/restaurant-app-express-server
 
 # Complete App Overview (frontend + backend)
 A restaurant website with a React + Redux frontend and a MongoDB + Express backend. 
