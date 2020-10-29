@@ -5,7 +5,9 @@ This is the frontend part of my React + MongoDB + Express restaurant web app. Th
 # Complete App Overview (frontend + backend)
 A restaurant website with a React + Redux frontend and a MongoDB + Express backend. 
 
-Logging into the website enables users to add comments to the dishes in the menu, as well as add dishes to their personal list of favorites.
+The website supports logging in, which enables users to add comments to the dishes in the menu, as well as add dishes to their personal list of favorites.
+
+See the screenshots folder both frontend and backend screens.
 
 # Frontend
 Implemented as a single page React app. Navigation is done via React Router. Application state is managed by Redux. 
@@ -105,7 +107,7 @@ Then run the app locally:
 -	Create a folder named mongodb on your computer and create a subfolder under it named data.
 -	Navigate in the Terminal to the mongodb folder and then start the MongoDB server by typing
 
-`mongod --dbpath=data --bind_ip 127.0.0.1`
+  `mongod --dbpath=data --bind_ip 127.0.0.1`
 
 ### Start the Express server
 - `cd express-server`
