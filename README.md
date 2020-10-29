@@ -7,7 +7,7 @@ A restaurant website with a React + Redux frontend and a MongoDB + Express backe
 
 The website supports logging in, which enables users to add comments to the dishes in the menu, as well as add dishes to their personal list of favorites.
 
-See the screenshots folder both frontend and backend screens.
+See the screenshots folder for both frontend and backend screens.
 
 # Frontend
 Implemented as a single page React app. Navigation is done via React Router. Application state is managed by Redux. 
